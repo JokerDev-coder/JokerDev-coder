@@ -48,5 +48,8 @@ Eu programo para **ver o mundo queimar… em produção**.
             <img align="center" alt="joker-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
             <img align="center" alt="joker-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
             <img align="center" alt="joker-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-            <img align="right" alt="joker-gif" src="[https://www.pinterest.com/pin/33847434686140455/](https://media1.tenor.com/m/0ujSnPHYJe4AAAAd/clapping-batman.gif](https://media1.tenor.com/m/0ujSnPHYJe4AAAAd/clapping-batman.gif)" />
+            <p align="right">
+  <img src="https://media1.tenor.com/m/0ujSnPHYJe4AAAAd/clapping-batman.gif" width="120" alt="Clap clap">
+</p>
+
 </div>
