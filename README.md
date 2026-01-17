@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🃏 Bem Vindo
 
-<!--
-**JokerDev-coder/JokerDev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Não é sobre código perfeito… é sobre ver o sistema quebrar e funcionar mesmo assim."**
 
-Here are some ideas to get you started:
+Bem-vindo(a).  
+Se você está procurando um **portfólio bonitinho**, talvez esteja no lugar errado.  
+Este GitHub é apenas mais um **capítulo do caos organizado** que chamam de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui não existem heróis.  
+Só bugs, commits duvidosos e soluções que ninguém sabe como funcionam, mas funcionam.
+
+---
+
+## 🧠 Linguagens
+
+### 🎭 Front-end
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React**
+
+### 🔥 Back-end
+- **PHP**
+- **SQL**
+
+---
+
+## 🧨 Filosofia
+- Se compila, é lucro  
+- Se funciona, não mexe  
+- Se quebrou, aprende  
+- Se ninguém entende, está perfeito  
+
+---
+
+Alguns programam para impressionar.  
+Outros programam para resolver problemas.
+
+Eu?  
+Eu programo para **ver o mundo queimar… em produção**.
+
+🃏
+
+<div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
